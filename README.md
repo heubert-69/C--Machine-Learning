@@ -62,10 +62,10 @@ csc HelloML.cs && mono HelloML.exe
 ```
 
 ❓ FAQ
-Q: Why Mono?
-A: For users without .NET SDK (e.g., older systems, lightweight setups).
+## Q: Why Mono?
+## A: For users without .NET SDK (e.g., older systems, lightweight setups).
 
-Q: ML.NET on Mono?
-A: ❌ No—use .NET SDK for ML.NET. Mono is for basic C# only.
+## Q: ML.NET on Mono?
+## A: ❌ No—use .NET SDK for ML.NET. Mono is for basic C# only.
 
-This keeps it backward-compatible while guiding users to the right tool. 🛠️
+## This keeps it backward-compatible while guiding users to the right tool. 🛠️
