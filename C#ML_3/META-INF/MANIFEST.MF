@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: edu.stanford.nlp.corenlp_english_extra_models
+Created-By: 1.8.0_382 (Azul Systems, Inc.)
+
