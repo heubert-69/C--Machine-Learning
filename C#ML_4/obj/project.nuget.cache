@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+iat+ggx0icU58AaUyfkp9xXqblGiFZmDsTYGPHbOrRD42E+uluUmXLeWrzMYm4l0PxNi4biJWllYseOfBRR3w==",
+  "success": true,
+  "projectFilePath": "/home/voltsy/Projects/C# Machine Learning/C#ML_4/C#ML_4.csproj",
+  "expectedPackageFiles": [
+    "/home/voltsy/.nuget/packages/accord/3.8.0/accord.3.8.0.nupkg.sha512",
+    "/home/voltsy/.nuget/packages/deedle/3.0.0/deedle.3.0.0.nupkg.sha512",
+    "/home/voltsy/.nuget/packages/fsharp.core/4.5.2/fsharp.core.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
