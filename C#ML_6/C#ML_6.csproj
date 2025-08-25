@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>C_ML_6</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Accord" Version="3.8.0" />
+    <PackageReference Include="Accord.Controls" Version="3.8.0" />
+    <PackageReference Include="CenterSpace.NMath.Stats" Version="4.2.0.58" />
+    <PackageReference Include="Deedle" Version="3.0.0" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,61 @@
+{
+  "version": 2,
+  "dgSpecHash": "6p45TkKmDf/xtdER4wN0pDIyIAWjY23UtzUUEmknhIwPd6brPXmk+CqOjKRPvc+kLTN8N+dRJgiZh8b2z0NMEg==",
+  "success": true,
+  "projectFilePath": "/home/voltsy/Projects/C# Machine Learning/C#ML_6/C#ML_6.csproj",
+  "expectedPackageFiles": [
+    "/home/voltsy/.nuget/packages/accord/3.8.0/accord.3.8.0.nupkg.sha512",
+    "/home/voltsy/.nuget/packages/accord.controls/3.8.0/accord.controls.3.8.0.nupkg.sha512",
+    "/home/voltsy/.nuget/packages/accord.machinelearning/3.8.0/accord.machinelearning.3.8.0.nupkg.sha512",
+    "/home/voltsy/.nuget/packages/accord.math/3.8.0/accord.math.3.8.0.nupkg.sha512",
+    "/home/voltsy/.nuget/packages/accord.statistics/3.8.0/accord.statistics.3.8.0.nupkg.sha512",
+    "/home/voltsy/.nuget/packages/centerspace.nmath/6.2.0.58/centerspace.nmath.6.2.0.58.nupkg.sha512",
+    "/home/voltsy/.nuget/packages/centerspace.nmath.stats/4.2.0.58/centerspace.nmath.stats.4.2.0.58.nupkg.sha512",
+    "/home/voltsy/.nuget/packages/deedle/3.0.0/deedle.3.0.0.nupkg.sha512",
+    "/home/voltsy/.nuget/packages/fsharp.core/4.5.2/fsharp.core.4.5.2.nupkg.sha512",
+    "/home/voltsy/.nuget/packages/microsoft.solver.foundation/3.1.0/microsoft.solver.foundation.3.1.0.nupkg.sha512",
+    "/home/voltsy/.nuget/packages/zedgraph/5.1.7/zedgraph.5.1.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Accord.Controls 3.8.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Accord.Controls",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'CenterSpace.NMath.Stats 4.2.0.58' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "CenterSpace.NMath.Stats",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Solver.Foundation 3.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Solver.Foundation",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ZedGraph 5.1.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ZedGraph",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
