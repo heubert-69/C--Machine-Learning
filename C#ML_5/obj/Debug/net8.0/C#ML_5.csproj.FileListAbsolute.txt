@@ -1,0 +1,6 @@
+/home/voltsy/Projects/C# Machine Learning/C#ML_5/obj/Debug/net8.0/C#ML_5.csproj.AssemblyReference.cache
+/home/voltsy/Projects/C# Machine Learning/C#ML_5/obj/Debug/net8.0/C#ML_5.GeneratedMSBuildEditorConfig.editorconfig
+/home/voltsy/Projects/C# Machine Learning/C#ML_5/obj/Debug/net8.0/C#ML_5.AssemblyInfoInputs.cache
+/home/voltsy/Projects/C# Machine Learning/C#ML_5/obj/Debug/net8.0/C#ML_5.AssemblyInfo.cs
+/home/voltsy/Projects/C# Machine Learning/C#ML_5/obj/Debug/net8.0/C#ML_5.csproj.CoreCompileInputs.cache
+/home/voltsy/Projects/C# Machine Learning/C#ML_5/obj/Debug/net8.0/C#ML_5.sourcelink.json

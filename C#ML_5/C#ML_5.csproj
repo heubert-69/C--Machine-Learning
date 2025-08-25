@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework> 
+    <RootNamespace>C_ML_5</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms> <!-- Added this line -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Accord" Version="3.8.0" />
+    <PackageReference Include="Accord.Controls" Version="3.8.0" />
+    <PackageReference Include="Accord.Statistics" Version="3.8.0" />
+    <PackageReference Include="Accord.Math" Version="3.8.0" /> <!-- Added -->
+    <PackageReference Include="Accord.MachineLearning" Version="3.8.0" /> <!-- Added -->
+    <PackageReference Include="Deedle" Version="3.0.0" />
+  </ItemGroup>
+
+</Project>
